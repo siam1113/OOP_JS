@@ -30,3 +30,7 @@
 @ Primitives copied by their values
 
 @ Objects are copied by their references
+
+"" Hide the details and Only show the essentials ""
+
+@ Private , Public and Read-Only properties
