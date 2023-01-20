@@ -20,7 +20,7 @@
 12. solve small and smaller problems
 13. solution/ find solution
 14. syntax 
-15. scope
+15. Scope
 
 
 @ 'new' operator creates an empty object
