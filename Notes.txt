@@ -1,0 +1,27 @@
+@ OOP is a programming paradigm, mindset or style of programming
+
+-> In OOP we group related variables and the functions operate on them into objects.
+
+-> Encapsulation in OOPs is the concept of binding fields (object state) and methods (behavior) together as a single unit.
+
+
+# Keywords about OOP:
+1. concept
+2. paradigm
+3. mindset
+4. solves problem
+5. Encapsulation
+6. Abstraction
+7. reusable
+8. simple
+9. easy
+10. unit
+11. not duplicate (lesser)
+12. solve small and smaller problems
+13. solution/ find solution
+14. syntax 
+
+
+@ 'new' operator creates an empty object
+
+@ Every object has a constructor property and that references the function that was used to create that object.
