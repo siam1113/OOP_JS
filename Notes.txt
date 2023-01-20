@@ -12,9 +12,9 @@
 4. solves problem
 5. Encapsulation
 6. Abstraction
-7.  reusable
-8.  simple
-9.  easy
+7. reusable
+8. simple
+9. easy
 10. unit
 11. not duplicate (lesser)
 12. solve small and smaller problems
